@@ -1,0 +1,26 @@
+2024-06-04 07:27:20.913 [info] 
+
+
+
+
+2024-06-04 07:27:20.913 [info] Extension host agent started.
+2024-06-04 07:27:20.914 [info] Started initializing default profile extensions in extensions installation folder. file:///home/fredrik/.vscode-server/extensions
+2024-06-04 07:27:21.030 [info] [<unknown>][c36e2bee][ManagementConnection] New connection established.
+2024-06-04 07:27:21.031 [info] [<unknown>][3690c556][ExtensionHostConnection] New connection established.
+2024-06-04 07:27:21.082 [info] [<unknown>][3690c556][ExtensionHostConnection] <14855> Launched Extension Host Process.
+2024-06-04 07:27:22.387 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/fredrik/.vscode-server/extensions
+2024-06-04 07:29:13.649 [info] [<unknown>][d3b90bd6][ManagementConnection] New connection established.
+2024-06-04 07:29:13.668 [info] [<unknown>][9eabefba][ExtensionHostConnection] New connection established.
+2024-06-04 07:29:13.673 [info] [<unknown>][9eabefba][ExtensionHostConnection] <14902> Launched Extension Host Process.
+2024-06-04 07:30:42.651 [info] [<unknown>][f87b0cfe][ExtensionHostConnection] New connection established.
+2024-06-04 07:30:42.657 [info] [<unknown>][f87b0cfe][ExtensionHostConnection] <15050> Launched Extension Host Process.
+2024-06-04 07:30:42.676 [info] [<unknown>][470f0c14][ManagementConnection] New connection established.
+2024-06-04 07:32:20.880 [info] New EH opened, aborting shutdown
+2024-06-04 07:34:13.725 [info] [<unknown>][3690c556][ExtensionHostConnection] <14855> Extension Host Process exited with code: 0, signal: null.
+2024-06-04 07:34:13.727 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/fredrik/.vscode-server/cli/servers/Stable-dc96b837cf6bb4af9cd736aa3af08cf8279f7685/server/out/vs/server/node/server.main.js:189:6057)
+    at process.emit (node:events:517:28)
+2024-06-04 07:35:42.763 [info] [<unknown>][9eabefba][ExtensionHostConnection] <14902> Extension Host Process exited with code: 0, signal: null.
+2024-06-04 08:09:55.528 [info] [<unknown>][6a093fb7][ManagementConnection] New connection established.
+2024-06-04 08:09:55.538 [info] [<unknown>][4338b0c6][ExtensionHostConnection] New connection established.
+2024-06-04 08:09:55.544 [info] [<unknown>][4338b0c6][ExtensionHostConnection] <15276> Launched Extension Host Process.

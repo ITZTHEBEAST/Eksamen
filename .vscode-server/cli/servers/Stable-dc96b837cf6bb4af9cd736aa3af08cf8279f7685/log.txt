@@ -1,0 +1,29 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to /tmp/code-7211f2a8-7ef8-4e3a-b22c-773102523f96
+Extension host agent listening on /tmp/code-7211f2a8-7ef8-4e3a-b22c-773102523f96
+
+[07:27:20] 
+
+
+
+
+[07:27:20] Extension host agent started.
+[07:27:20] Started initializing default profile extensions in extensions installation folder. file:///home/fredrik/.vscode-server/extensions
+[07:27:21] [<unknown>][c36e2bee][ManagementConnection] New connection established.
+[07:27:21] [<unknown>][3690c556][ExtensionHostConnection] New connection established.
+[07:27:21] [<unknown>][3690c556][ExtensionHostConnection] <14855> Launched Extension Host Process.
+[07:27:22] Completed initializing default profile extensions in extensions installation folder. file:///home/fredrik/.vscode-server/extensions
+[07:29:13] [<unknown>][d3b90bd6][ManagementConnection] New connection established.
+[07:29:13] [<unknown>][9eabefba][ExtensionHostConnection] New connection established.
+[07:29:13] [<unknown>][9eabefba][ExtensionHostConnection] <14902> Launched Extension Host Process.
+[07:30:42] [<unknown>][f87b0cfe][ExtensionHostConnection] New connection established.
+[07:30:42] [<unknown>][f87b0cfe][ExtensionHostConnection] <15050> Launched Extension Host Process.
+[07:30:42] [<unknown>][470f0c14][ManagementConnection] New connection established.
+New EH opened, aborting shutdown
+[07:32:20] New EH opened, aborting shutdown
